@@ -1,0 +1,113 @@
+1. Introduction to Fluid Mechanics and Heat Transfer
+
+	
+Introduction to thermodynamics of gases and liquids
+Introduction to heat transfer
+Compressible flows
+Incompressible flows
+Dimensional analysis and similarity parameters
+Mathematics of governing equations, classification of PDEs
+Model equations for fluid dynamics
+Introduction to unstable and turbulent flows
+
+
+Numerical Methods and High Performance Computing
+
+	
+• Introduction to numerical analysis
+• Discretisation approaches: finite difference, finite volume, finite element and spectral methods
+• Numerical methods for algebraic equations/systems of equations
+• Numerical schemes for hyperbolic, parabolic and elliptic systems and for fluid dynamics.
+• Desktop versus distributed computing facilities
+• Hardware and software aspects of HPC
+• Parallel computing challenges and main issues
+• Parallelisation approaches for distributed and shared memory systems. MPI & OPENMP
+• Current CFD process with respect to partitioning and distributed computing and related bottlenecks
+• Whole HPC product applications
+
+
+Numerical Modelling for Incompressible Flows
+
+	
+• Overview of various formulations of the governing equations and numerical methods for incompressible flows (linear & high-resolution methods)
+• Solution approaches: pressure Poisson, projection (approximate and exact), artificial compressibility
+• Centred schemes
+• TVD and Riemann solvers for incompressible methods
+• Second and high-order methods (time and spatial discretise)
+
+Numerical Modelling for Compressible Flows
+
+	
+• Mathematical properties of hyperbolic systems
+• Conservation Laws
+• Non-linearities and shock formation
+• WENO schemes
+• MUSCL schemes Introduction to the Riemann problem
+• Lax-Wendroff scheme
+• Introduction to Godunov's method
+• Flux vector splitting methods
+• Approximate Riemann solvers
+• Explicit and implicit time-stepping schemes
+
+Turbulence Modelling
+
+	
+• Introduction to Reynolds Averaged Navier Stokes Modelling
+• Zero, One and Two equation models
+• Reynolds Stress Transport Schemes
+• Low-Re Modelling
+• Transition Modelling Extensions
+• Best Practice Guidelines
+• Overview of the basic equations used in LES, including filtered and unfiltered formulations
+• Classical LES and sub-grid scale models
+• Implicit LES (numerical and physical principles)
+• Numerical and physical properties of DNS
+• Applications and challenges for LES and DNS
+
+Grid Generation / CAD
+
+	
+• Computer aided design interface with grid generation
+• Geometry Modelling and Surface Grids
+• Algebraic Mesh Generation
+• Structured Meshes from Partial Differential Equations
+• Automatic generation of Unstructured Meshes
+• Multiblock Mesh Generation
+• Unstructured grids by Delaunay Triangulation
+• Mesh Adaptation on Unstructured Grids
+• Unstructured Grids for Viscous Flows
+• Grid generation tutorials with ANSYS-Icem-cfd and Pointwise commercial software.
+
+Data Analysis and Uncertainty
+
+	
+• Data interchange formats
+• Interpretation of data
+• Graphical representation of data
+• Parallel data visualisation
+• Data mining, reduced order modelling, model identification and surrogate models
+• Data fusion
+• Virtual reality visualisation
+• The right answer: consistency, stability and convergence revisited
+• Taxonomies of error and uncertainty
+• Principles of code verification
+• Introduction to the method of manufactured solutions
+• Principles of solution verification
+• Role of systematic iterative and space-time grid convergence studies
+• Richardson extrapolation
+• Principles of validation
+• Construction of validation hierarchies
+
+The Role of Experimental Data in CFD
+
+	
+Introduction to the measurement of turbulent flows
+Velocity and pressure measurement by aerodynamic probes
+Velocity measurement by hot-wires/hot-film
+Velocity measurement by optical techniques
+Temperature measurement
+Simple optical visualisation, Shadowgraph, Schlieren
+Laser-based temperature and species measurements
+Laser Induced Fluorescence
+Skin friction, convective and radiative heat transfer
+Error analysis.
